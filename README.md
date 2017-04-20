@@ -26,7 +26,7 @@ The threads field contains the id, title and the url of the thread.
 
 Indexing a thread is similar too!
 
-``` https://boards.dangeru.us/api.php?type=thread&board=u&ln=5&id=1334 ```
+``` https://boards.dangeru.us/api.php?type=thread&board=u&ln=5&thread=1334 ```
 
 The output:
 
