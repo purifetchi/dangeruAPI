@@ -1,5 +1,4 @@
 # This API is deprecated. Refer to API v2 at https://github.com/dangeru/awoo-API
-# The danger/u/ API.
 
 **What is it**
 
